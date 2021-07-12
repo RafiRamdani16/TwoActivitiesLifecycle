@@ -1,0 +1,4 @@
+#Mon Jul 12 17:06:02 ICT 2021
+base.0=D\:\\Semester4\\PemrogramanMobile\\TwoActivitiesLifecycle\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
